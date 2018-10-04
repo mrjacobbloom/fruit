@@ -1,5 +1,7 @@
 # Fruit
 
+![Demo of the app in action](https://raw.githubusercontent.com/mrjacobbloom/fruit/master/demo.gif)
+
 This was my final project for a class on OpenGL graphics. It's a game in which
 the user creates a smoothie by dragging fruits into a blender.
 
